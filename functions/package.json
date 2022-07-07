@@ -18,7 +18,7 @@
     "body-parser": "1.18.x",
     "ejs": "2.5.x",
     "envvar": "1.1.x",
-    "moment": "2.22.x",
+    "moment": "2.29.x",
     "plaid": "^6.x.x"
   },
   "devDependencies": {
